@@ -1,7 +1,7 @@
 ## Cryptocurrency Finance Price Tracker
 
 
-A Cryptocurrency Finance Price Tracker I created for the sake of practicing React and context api . It features design 
+A Cryptocurrency Finance Price Tracker I created for the sake of practicing React . It features design 
 patterns recommended by the documentation. Some of the tools used include: <br />
 
 * Hooks (and custom hooks)
